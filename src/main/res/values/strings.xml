@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Révision verbes</string>
+    <string-array name="vrb_array">
+        <item>Add a new verb</item>
+    </string-array>
+    <string-array name="tps_array">
+        <item>Présent</item>
+        <item>Imparfait</item>
+        <item>Futur</item>
+        <item>Passé simple</item>
+        <item>Impératif</item>
+        <item>Conditionnel présent</item>
+        <item>Subjonctif présent</item>
+        <item>Subjonctif imparfait</item>
+        <item>Gérondif</item>
+        <item>Participe passé</item>
+    </string-array>
+</resources>
