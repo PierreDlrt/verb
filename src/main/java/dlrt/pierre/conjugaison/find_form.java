@@ -71,7 +71,7 @@ public class find_form extends AppCompatActivity {
      *
      * @var CounterList is a list of the number of input tenses for each verb
      * @var max is the total number of input tenses of every verbs
-     * @var i is the variable looking for the index of the verb designated by rdn
+     * @var i is the variable looking for the index of the verb designated by rnb
      *
      * The while condition checks if the randomly generated number is included in the section
      * designated by i. If yes, the index is found. If no, it jumps to the next section by adding
